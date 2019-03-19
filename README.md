@@ -13,9 +13,12 @@
   * program to interface, not an implementation
   * favor composition over inheritance
 ### Design Pattern
-  * Decorator pattern
+  * Decorator pattern: need to search
   * Strategy pattern
   * Observer pattern
+  * Factory Pattern
+  * Adapter/Facade pattern
+  * Command pattern
 ### SOLID principles
   * Single Responsibility principle
   * Open to extension, but close to modification
