@@ -15,7 +15,7 @@
 ### Design Pattern
   * Decorator pattern: need to search
   * Strategy pattern
-  * Observer pattern
+  * Observer pattern: need review.
   * Factory Pattern
   * Adapter/Facade pattern
   * Command pattern
