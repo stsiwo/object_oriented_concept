@@ -18,6 +18,7 @@
   * Observer pattern: need review.
   * Factory Pattern
   * Adapter/Facade pattern
+  * Mediator Pattern
   * Command pattern
 ### SOLID principles
   * Single Responsibility principle
