@@ -9,6 +9,8 @@
     - tight coupling 
       - problems of tight coupling
         - one change on the lower level component affect the entire system
+  - caveat : 
+    1. some cases don't require you to use oo. it's ok. there is always a reason to use oo or decoupling. without the reason, the result is counter-productive (increase complexity and no benefits) => wasting your time
 ### OO-basics
   * Inheritance
   * Abstraction
